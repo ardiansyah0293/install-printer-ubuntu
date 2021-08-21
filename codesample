@@ -1,0 +1,7 @@
+sudo apt update
+sudo apt install gcc libtool libssl-dev libc-dev libjpeg-turbo8-dev libpng-dev libtiff5-dev cups
+
+goto settings
+klik printer details
+select from databases
+choose your printer type
